@@ -1,0 +1,12 @@
+﻿  error_display.cpp
+D:\PCL 1.8.0\include\pcl-1.8\pcl/visualization/interactor_style.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\PCL 1.8.0\include\pcl-1.8\pcl/visualization/pcl_visualizer.h(1621): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\CGAL\install\include\CGAL/config.h(119): warning C4005: “BOOST_PARAMETER_MAX_ARITY”: 宏重定义
+          D:\PCL 1.8.0\include\pcl-1.8\pcl/io/boost.h(81) : 参见“BOOST_PARAMETER_MAX_ARITY”的前一个定义
+D:\PCL 1.8.0\bin\3rdParty\Boost\include\boost-1_59\boost/format/alt_sstream_impl.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+src\error_display.cpp(67): warning C4267: “=”: 从“size_t”转换到“uint32_t”，可能丢失数据
+src\error_display.cpp(128): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\PCL 1.8.0\include\pcl-1.8\pcl/visualization/impl/point_cloud_color_handlers.hpp(549): warning C4267: “参数”: 从“size_t”转换到“unsigned int”，可能丢失数据
+          D:\PCL 1.8.0\include\pcl-1.8\pcl/visualization/impl/point_cloud_color_handlers.hpp(525): 编译类 模板 成员函数“bool pcl::visualization::PointCloudColorHandlerLabelField<pcl::PointXYZL>::getColor(vtkSmartPointer<vtkDataArray> &) const”时
+          D:\PCL 1.8.0\include\pcl-1.8\pcl/visualization/pcl_visualizer.h(907): 参见对正在编译的类 模板 实例化“pcl::visualization::PointCloudColorHandlerLabelField<pcl::PointXYZL>”的引用
+  compare_cloud.vcxproj -> F:\Projects\compare_cloud\x64\Debug\compare_cloud.exe
